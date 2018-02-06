@@ -1,2 +1,3 @@
 test i mybranch
+det här skriver jag i mybranch
 i master skriver jag hej
